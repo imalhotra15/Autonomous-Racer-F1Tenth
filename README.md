@@ -45,7 +45,8 @@ The algorithm uses various sensors to gather information about the vehicle's env
 1. **Generate Random Tree**: Build a tree of random points from the vehicle's current position to the goal.
 2. **Check for Collisions**: Ensure that the path does not collide with any obstacles.
 3. **Select Optimal Path**: Choose the shortest valid path from the tree to the goal.
-RRT Repo: https://github.com/imalhotra15/RRT
+
+'RRT Repo: https://github.com/imalhotra15/RRT'
 
 
 ## Tips and Tricks
